@@ -1,0 +1,7 @@
+﻿  Overflow.c
+C:\Users\박범철\Desktop\Cprograming\week2\Overflow\Overflow.c(1,1): warning C4828: 파일에 0x202 오프셋에서 시작하는 문자가 포함되어 있습니다. 이 문자는 현재 원본 문자 집합에서 잘못된 문자입니다(코드 페이지 949).
+C:\Users\박범철\Desktop\Cprograming\week2\Overflow\Overflow.c(12,25): warning C4305: '초기화 중': 'int'에서 'unsigned char'(으)로 잘립니다.
+C:\Users\박범철\Desktop\Cprograming\week2\Overflow\Overflow.c(15,1): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+C:\Users\박범철\Desktop\Cprograming\week2\Overflow\Overflow.c(16,1): warning C4056: 부동 소수점 상수 산술 연산에서 오버플로가 발생했습니다.
+C:\Users\박범철\Desktop\Cprograming\week2\Overflow\Overflow.c(16): warning C4756: 상수 산술 연산에서 오버플로가 발생했습니다.
+  Overflow.vcxproj -> C:\Users\박범철\Desktop\Cprograming\week2\week2_20185241\x64\Debug\OverflowProject.exe
